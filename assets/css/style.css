@@ -1,0 +1,110 @@
+
+
+/*--------------------------------------------------------------
+# Data_Arsip
+--------------------------------------------------------------*/
+.count-box {
+	padding: 30px;
+	width: 100%;
+	background-image: linear-gradient(to right, #D3CCE3, #E9E4F0);
+	border-radius: 10px;
+  }
+  
+  .count-box i {
+	display: block;
+	font-size: 44px;
+	color: #149ddd;
+	float: left;
+	line-height: 0;
+  }
+  
+  .count-box span {
+	font-size: 48px;
+	line-height: 40px;
+	display: block;
+	font-weight: 700;
+	color: #050d18;
+	margin-left: 60px;
+  }
+  
+  .count-box p {
+	padding: 15px 0 0 0;
+	margin: 0 0 0 60px;
+	font-family: "Raleway", sans-serif;
+	font-size: 14px;
+	color: #122f57;
+  }
+  
+  .count-box a {
+	font-weight: 600;
+	display: block;
+	margin-top: 20px;
+	color: #122f57;
+	font-size: 15px;
+	font-family: "Poppins", sans-serif;
+	transition: ease-in-out 0.3s;
+  }
+  
+  .count-box a:hover {
+	color: #1f5297;
+  }
+
+  /* Start btn */
+.btn-primary{
+    background: #06a8ed;
+    color: #fff;
+    font-size: 14px;
+    text-align: center;
+    border-radius: 12px !important;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+}
+.btn-info{
+    background: #35828d;
+    color: #fff;
+    font-size: 14px;
+    text-align: center;
+    border-radius: 12px !important;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.btn-success{
+    background: #198754;
+    color: rgba(255, 255, 255, 0.884);
+    font-size: 14px;
+    text-align: center;
+    border-radius: 12px !important;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+}
+.btn-danger{
+    background: #dc3545;
+    color: #fff;
+    font-size: 14px;
+    text-align: center;
+    border-radius: 12px !important;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+}
+.btn-warning{
+    background: #ffc107;
+    color: rgb(49, 2, 2);
+    font-size: 14px;
+    text-align: center;
+    border-radius: 12px !important;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.dt-button {
+	float: left;
+	border-radius: 8px;
+	box-shadow: 0px 0px 5px rgba(4, 8, 252, 0.651);
+  }
+/* End btn */
